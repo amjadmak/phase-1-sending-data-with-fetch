@@ -21,5 +21,5 @@ function submitData( name, email ) {
         document.body.innerHTML = error.message
       } )
   }
-  submitData( "g", "g" )
+  submitData( "John", "Mackell" )
   

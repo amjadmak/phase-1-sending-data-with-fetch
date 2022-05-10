@@ -29,7 +29,11 @@
     }
   ],
   "users": [
-
+    {
+      "name": "John",
+      "email": "Mackell",
+      "id": 1
+    }
   ],
   "robots": [
     {
